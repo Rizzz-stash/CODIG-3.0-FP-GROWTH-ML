@@ -6,5 +6,7 @@ How to use/run files
 - in code section, Mount the dataset to the file
 - run
 
-Full description on .pdf file, designated for CODIG 3.0 Competition 
+Full description on .pdf file, designate for CODIG 3.0 Competition 
 in Mercubuana University
+
+
